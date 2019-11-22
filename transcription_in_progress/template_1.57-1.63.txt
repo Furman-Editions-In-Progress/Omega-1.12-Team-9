@@ -1,0 +1,29 @@
+# 1.57-1.63
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.57	οἳ δʼ ἐπεὶ οὖν ἤγερθεν ὁμηγερέες τε γένοντο ,
+urn:cts:greekLit:tlg0012.tlg001.allen:1.57	oi(\ d# e)pei\ ou)=n h)/gerqen o(mhgere/es te ge/nonto ,
+urn:cts:greekLit:tlg0012.tlg001.e4:1.57		oi(\ d# e)pei\ ou)=n h)/gerqen o(mhgere/es te ge/nonto ,
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.58	τοῖσι δʼ ἀνιστάμενος μετέφη πόδας ὠκὺς Ἀχιλλεύς ·
+urn:cts:greekLit:tlg0012.tlg001.allen:1.58	toi=si d# a)nista/menos mete/fh po/das w)ku\s *a)xilleu/s #
+urn:cts:greekLit:tlg0012.tlg001.e4:1.58		toi=si d# a)nista/menos mete/fh po/das w)ku\s *a)xilleu/s #
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.59	Ἀτρεΐδη νῦν ἄμμε παλιμπλαγχθέντας ὀΐω
+urn:cts:greekLit:tlg0012.tlg001.allen:1.59	*a)trei/+dh nu=n a)/mme palimplagxqe/ntas o)i/+w
+urn:cts:greekLit:tlg0012.tlg001.e4:1.59		*a)trei/+dh nu=n a)/mme palimplagxqe/ntas o)i/+w
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.60	ἂψ ἀπονοστήσειν , εἴ κεν θάνατόν γε φύγοιμεν ,
+urn:cts:greekLit:tlg0012.tlg001.allen:1.60	a)\y a)ponosth/sein , ei)/ ken qa/nato/n ge fu/goimen ,
+urn:cts:greekLit:tlg0012.tlg001.e4:1.60		a)\y a)ponosth/sein , ei)/ ken qa/nato/n ge fu/goimen ,
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.61	εἰ δὴ ὁμοῦ πόλεμός τε δαμᾷ καὶ λοιμὸς Ἀχαιούς ·
+urn:cts:greekLit:tlg0012.tlg001.allen:1.61	ei) dh\ o(mou= po/lemo/s te dama=| kai\ loimo\s *a)xaiou/s #
+urn:cts:greekLit:tlg0012.tlg001.e4:1.61		ei) dh\ o(mou= po/lemo/s te dama=| kai\ loimo\s *a)xaiou/s #
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.62	ἀλλʼ ἄγε δή τινα μάντιν ἐρείομεν ἢ ἱερῆα
+urn:cts:greekLit:tlg0012.tlg001.allen:1.62	a)ll# a)/ge dh/ tina ma/ntin e)rei/omen h)\ i(erh=a
+urn:cts:greekLit:tlg0012.tlg001.e4:1.62		a)ll# a)/ge dh/ tina ma/ntin e)rei/omen h)\ i(erh=a
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.63	ἢ καὶ ὀνειροπόλον , καὶ γάρ τʼ ὄναρ ἐκ Διός ἐστιν ,
+urn:cts:greekLit:tlg0012.tlg001.allen:1.63	h)\ kai\ o)neiropo/lon , kai\ ga/r t# o)/nar e)k *dio/s e)stin ,
+urn:cts:greekLit:tlg0012.tlg001.e4:1.63		h)\ kai\ o)neiropo/lon , kai\ ga/r t# o)/nar e)k *dio/s e)stin ,
